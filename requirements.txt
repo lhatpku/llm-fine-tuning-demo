@@ -1,0 +1,29 @@
+# Core ML Libraries
+torch>=2.0.0
+transformers>=4.35.0
+peft>=0.6.0
+datasets>=2.14.0
+accelerate>=0.24.0
+
+# Quantization
+bitsandbytes>=0.41.0
+
+# Evaluation
+evaluate>=0.4.0
+rouge-score>=0.1.2
+
+# Hugging Face Hub
+huggingface_hub>=0.19.0
+
+# Experiment Tracking
+wandb>=0.15.0
+
+# Utilities
+tqdm>=4.66.0
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# Jupyter (for notebook usage)
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
